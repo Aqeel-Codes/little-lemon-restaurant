@@ -1,0 +1,14 @@
+# Created by venv; see https://docs.python.org/3/library/venv# Virtual Environment
+tutorial-env/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Database (optional: keep ignored if you don't want local test data on GitHub)
+*.sqlite3
+
+# Environment variables / secret keys
+.env
